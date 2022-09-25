@@ -5,4 +5,9 @@
 //  Created by Mac on 20.09.2022.
 //
 
-import Foundation
+import UIKit
+
+struct Post {
+    var title: String
+}
+
